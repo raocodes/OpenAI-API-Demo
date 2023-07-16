@@ -1,2 +1,2 @@
 # OpenAI-API-Demo
-A jupyter notebook to test out OpenAI APIs
+A Jupyter Notebook to test out OpenAI APIs
